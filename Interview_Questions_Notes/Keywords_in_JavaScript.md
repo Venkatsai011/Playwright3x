@@ -53,7 +53,8 @@
 | **Modules** | `import` `export` `default` (export context) | Split code across files |
 | **Error Handling** | `try` `catch` `finally` `throw` | Handle problems gracefully |
 | **Type Checking** | `typeof` `instanceof` | Check what something is |
-| **Misc** | `delete` `void` `debugger` | Remove props, return undefined, pause execution |
+| **Other Keywords** | `with` `debugger` `void` `delete` | Deprecated scope extension, pause execution, return undefined, remove props |
+| **Reserved Literals** ⚠️ | `null` `true` `false` | Technically literals, but still RESERVED — can't be variable names |
 | **Reserved (Future)** | `enum` `implements` `interface` `package` `private` `protected` `public` | Saved for future JS versions |
 
 ---

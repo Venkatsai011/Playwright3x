@@ -3,5 +3,5 @@
 [cmd]: https://commandcode.ai/
 
 # markdown
-- For educational/reference markdown files, prefer visually glanceable formats (diagrams, concise highlights, visual separation) over dense tables or long bullet lists — content should be scannable at a glance for quick review before interviews. Confidence: 0.55
+- For educational/reference markdown files, follow a consistent interview-ready template: emoji titles, mental hooks, ASCII pipelines, comparison tables, real code walkthroughs, kitchen analogies, and interview recaps — content should be highly scannable and visual. Confidence: 0.75
 
